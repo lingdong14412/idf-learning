@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/PersonalData/embedded/code_idf/timer_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

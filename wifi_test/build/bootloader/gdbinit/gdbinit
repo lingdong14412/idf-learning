@@ -1,0 +1,2 @@
+source D:/Espressif/frameworks/esp-idf-v5.5.5/examples/get-started/hello_world/build/bootloader/gdbinit/symbols
+source D:/Espressif/frameworks/esp-idf-v5.5.5/examples/get-started/hello_world/build/bootloader/gdbinit/connect
