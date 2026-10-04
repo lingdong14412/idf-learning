@@ -7,7 +7,7 @@
    CONDITIONS OF ANY KIND, either express or implied.
 */
 
-#include "my-wifi/my_wifi.h"
+#include "wifi/wifi.h"
 
 
 
